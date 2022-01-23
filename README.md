@@ -1,1 +1,1 @@
-![nyantocat](nyantocat.gif)
+<img src="nyantocat.gif" alt="nyantocat" style="zoom:30%;" />
